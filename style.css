@@ -1,0 +1,185 @@
+/* ============================================================
+   CONFIGURAÇÕES GERAIS E PALETA DE CORES
+   ============================================================ */
+body { 
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; 
+    background-color: #37353E; /* Cor Principal (Fundo) */
+    color: #D3DAD9;            /* Cor de Texto (Contraste Suave) */
+    margin: 0;
+    padding: 10px;             /* Espaçamento para telas pequenas */
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;         /* Garante que o footer fique no fim */
+}
+
+/* Container Flexível (Responsivo) */
+.container { 
+    width: 95%;                /* Quase toda a tela no celular */
+    max-width: 800px;          /* Limite no computador */
+    margin: 0 auto; 
+    flex: 1;                   /* Empurra o footer para baixo */
+}
+
+/* ============================================================
+   HEADER E DATA
+   ============================================================ */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #715A5A; /* Tom marrom da paleta */
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+.data-topo { 
+    font-size: 1.1rem;
+    color: #D3DAD9;
+    font-weight: bold;
+    margin-top: 5px;
+    opacity: 0.9;
+}
+
+/* ============================================================
+   CARDS DE EMPRESAS E LISTA
+   ============================================================ */
+.empresa-card {
+    background: #44444E;       /* Tom secundário da paleta */
+    border-radius: 12px;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-left: 8px solid #715A5A; 
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.empresa-card h3 {
+    margin: 0 0 15px 0;
+    color: #D3DAD9;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    letter-spacing: 1.5px;
+    border-bottom: 1px solid rgba(211, 218, 217, 0.1);
+    padding-bottom: 5px;
+}
+
+.lista-rompimento {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.lista-rompimento li {
+    background: rgba(55, 53, 62, 0.6); /* Fundo sutil */
+    margin: 8px 0;
+    padding: 12px 15px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgba(113, 90, 90, 0.2);
+    font-size: 0.95rem;
+}
+
+/* Selo (Idade) */
+.badge-dias {
+    background: #715A5A; 
+    color: #D3DAD9;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 0.8rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    white-space: nowrap; /* Impede quebrar o texto do badge */
+}
+
+/* Mensagem de tela limpa */
+.vazio-msg {
+    text-align: center;
+    padding: 60px 20px;
+    background: #44444E;
+    border-radius: 12px;
+    color: #D3DAD9;
+    border: 2px dashed #715A5A;
+    opacity: 0.7;
+}
+
+/* ============================================================
+   FOOTER (RODAPÉ)
+   ============================================================ */
+.footer-lab {
+    background: #44444E;
+    border-top: 1px solid #715A5A;
+    color: #D3DAD9;
+    padding: 20px 0;
+    margin-top: 40px;
+    width: 100%;
+}
+
+.footer-content {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column; /* Empilha no celular */
+    gap: 15px;
+    align-items: center;
+    text-align: center;
+}
+
+.status-dot {
+    height: 10px;
+    width: 10px;
+    background-color: #715A5A; 
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 8px;
+    box-shadow: 0 0 8px #715A5A;
+    animation: blink 2s infinite;
+}
+
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0.3; }
+    100% { opacity: 1; }
+}
+
+
+.version {
+    background: #37353E;
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 0.7rem;
+    opacity: 0.8;
+}
+
+/* ============================================================
+   MEDIA QUERIES (AJUSTES PARA COMPUTADOR)
+   ============================================================ */
+@media (min-width: 600px) {
+    body {
+        padding: 20px;
+    }
+
+    header h2 {
+        font-size: 2rem;
+    }
+
+    .footer-content {
+        flex-direction: row; /* Lado a lado no PC */
+        justify-content: space-between;
+    }
+
+    .empresa-card {
+        padding: 20px;
+    }
+
+    .lista-rompimento li {
+        font-size: 1rem;
+    }
+}
