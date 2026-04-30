@@ -1,5 +1,4 @@
-/**
- * BANCO DE DADOS MANUAL
+/* BANCO DE DADOS MANUAL
  * Adicione os novos CPs abaixo seguindo o formato:
  * { empresa: "NOME", registro: "00", moldagem: "AAAA-MM-DD", prazo: 7 ou 14 ou 28 },
  */
@@ -114,6 +113,26 @@ const registrosCP = [
     { empresa: "ATERPA", registro: "20", moldagem: "2026-04-09", prazo: 28 },
     { empresa: "ATERPA", registro: "21", moldagem: "2026-04-09", prazo: 14 },
     { empresa: "ATERPA", registro: "21", moldagem: "2026-04-09", prazo: 28 },
+    { empresa: "ATERPA", registro: "22", moldagem: "2026-04-17", prazo: 14 },
+    { empresa: "ATERPA", registro: "22", moldagem: "2026-04-17", prazo: 28 },
+    { empresa: "ATERPA", registro: "23", moldagem: "2026-04-16", prazo: 14 },
+    { empresa: "ATERPA", registro: "23", moldagem: "2026-04-16", prazo: 28 },
+    { empresa: "ATERPA", registro: "24", moldagem: "2026-04-16", prazo: 14 },
+    { empresa: "ATERPA", registro: "24", moldagem: "2026-04-16", prazo: 28 },
+    { empresa: "ATERPA", registro: "25", moldagem: "2026-04-17", prazo: 14 },
+    { empresa: "ATERPA", registro: "25", moldagem: "2026-04-17", prazo: 28 },
+    { empresa: "ATERPA", registro: "26", moldagem: "2026-04-17", prazo: 14 },
+    { empresa: "ATERPA", registro: "26", moldagem: "2026-04-17", prazo: 28 },
+    { empresa: "ATERPA", registro: "27", moldagem: "2026-04-22", prazo: 14 },
+    { empresa: "ATERPA", registro: "27", moldagem: "2026-04-22", prazo: 28 },
+    { empresa: "ATERPA", registro: "28", moldagem: "2026-04-22", prazo: 14 },
+    { empresa: "ATERPA", registro: "28", moldagem: "2026-04-22", prazo: 28 },
+    { empresa: "ATERPA", registro: "29", moldagem: "2026-04-22", prazo: 14 },
+    { empresa: "ATERPA", registro: "29", moldagem: "2026-04-22", prazo: 28 },
+    { empresa: "ATERPA", registro: "30", moldagem: "2026-04-24", prazo: 7 },
+    { empresa: "ATERPA", registro: "30", moldagem: "2026-04-24", prazo: 14 },
+    { empresa: "ATERPA", registro: "30", moldagem: "2026-04-24", prazo: 28 },
+
 ];
 
 function inicializarPainel() {
@@ -186,3 +205,25 @@ function inicializarPainel() {
 }
 
 window.onload = inicializarPainel;
+
+function calcularMPA() {
+    const kn = document.getElementById('leituraKN').value;
+    const dimensao = document.getElementById('dimensaoCP').value;
+    const displayRes = document.getElementById('resultadoMPA');
+
+    if (kn > 0) {
+        let resultado = 0;
+        
+        if (dimensao === "10x20") {
+            // Área = 78,54 cm² -> MPA = kN / 7,854
+            resultado = kn / 7.854;
+        } else if (dimensao === "5x10") {
+            // Área = 19,635 cm² -> MPA = kN / 1,9635
+            resultado = kn / 1.9635;
+        }
+
+        displayRes.innerText = resultado.toFixed(2);
+    } else {
+        displayRes.innerText = "0.00";
+    }
+}
