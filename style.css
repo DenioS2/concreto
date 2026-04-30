@@ -183,3 +183,65 @@ header h2 {
         font-size: 1rem;
     }
 }
+
+/* CALCULADORA MPA */
+.calculadora-container {
+    background: #44444E;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #715A5A;
+}
+
+.calculadora-container h3 {
+    margin-top: 0;
+    color: #D3DAD9;
+    text-align: center;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+}
+
+.calc-box {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.input-group label {
+    font-size: 0.85rem;
+    color: #D3DAD9;
+}
+
+.input-group input, .input-group select {
+    background: #37353E;
+    border: 1px solid #715A5A;
+    color: #D3DAD9;
+    padding: 12px;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+
+.resultado-box {
+    background: #715A5A;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.resultado-box span {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#resultadoMPA {
+    display: block;
+    font-size: 1.8rem;
+    color: #D3DAD9;
+}
