@@ -17,6 +17,31 @@
     <div id="painel-alertas">
         </div>
 
+    <!-- Calculadora de MPA -->
+    <div class="calculadora-container">
+        <h3>Calculadora de Resistência</h3>
+        
+        <div class="calc-box">
+            <div class="input-group">
+                <label>Leitura (kN):</label>
+                <input type="number" id="leituraKN" placeholder="Leitura do CP" oninput="calcularMPA()">
+            </div>
+
+            <div class="input-group">
+                <label>Dimensões do CP:</label>
+                <select id="dimensaoCP" onchange="calcularMPA()">
+                    <option value="10x20">10x20 cm</option>
+                    <option value="5x10">5x10 cm</option>
+                </select>
+            </div>
+
+            <div class="resultado-box">
+                <span>MPA:</span>
+                <strong id="resultadoMPA">0.00</strong>
+            </div>
+        </div>
+    </div>
+
     <footer class="footer-lab">
     <div class="footer-content">
         <div class="footer-section">
@@ -27,7 +52,7 @@
             <span class="version">v0.0.1 - Luis</span>
         </div>
     </div>
-</footer>
+    </footer>
 </div>
 
 <script src="script.js"></script>
