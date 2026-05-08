@@ -73,6 +73,52 @@ const registrosCP = [
     { empresa: "ATERPA", registro: "29", moldagem: "2026-04-22", prazo: 28 },
     { empresa: "ATERPA", registro: "30", moldagem: "2026-04-24", prazo: 14 },
     { empresa: "ATERPA", registro: "30", moldagem: "2026-04-24", prazo: 28 },
+    { empresa: "ATERPA", registro: "31", moldagem: "2026-04-27", prazo: 14 },
+    { empresa: "ATERPA", registro: "31", moldagem: "2026-04-27", prazo: 28 },
+    { empresa: "ATERPA", registro: "32", moldagem: "2026-04-29", prazo: 14 },
+    { empresa: "ATERPA", registro: "32", moldagem: "2026-04-29", prazo: 28 },
+    { empresa: "ATERPA", registro: "33", moldagem: "2026-04-30", prazo: 14 },
+    { empresa: "ATERPA", registro: "33", moldagem: "2026-04-30", prazo: 28 },
+    { empresa: "ATERPA", registro: "34", moldagem: "2026-05-04", prazo: 14 },
+    { empresa: "ATERPA", registro: "34", moldagem: "2026-05-04", prazo: 28 },
+
+    // PROGEO KM469
+    { empresa: "PROGEO KM469", registro: "16", moldagem: "2026-04-10", prazo: 7 },
+{ empresa: "PROGEO KM469", registro: "16", moldagem: "2026-04-10", prazo: 14 },
+{ empresa: "PROGEO KM469", registro: "16", moldagem: "2026-04-10", prazo: 28 },
+
+{ empresa: "PROGEO KM469", registro: "17", moldagem: "2026-04-13", prazo: 7 },
+{ empresa: "PROGEO KM469", registro: "17", moldagem: "2026-04-13", prazo: 14 },
+{ empresa: "PROGEO KM469", registro: "17", moldagem: "2026-04-13", prazo: 28 },
+
+{ empresa: "PROGEO KM469", registro: "18", moldagem: "2026-04-15", prazo: 7 },
+{ empresa: "PROGEO KM469", registro: "18", moldagem: "2026-04-15", prazo: 14 },
+{ empresa: "PROGEO KM469", registro: "18", moldagem: "2026-04-15", prazo: 28 },
+
+{ empresa: "PROGEO KM469", registro: "19", moldagem: "2026-04-17", prazo: 7 },
+{ empresa: "PROGEO KM469", registro: "19", moldagem: "2026-04-17", prazo: 14 },
+{ empresa: "PROGEO KM469", registro: "19", moldagem: "2026-04-17", prazo: 28 },
+
+{ empresa: "PROGEO KM469", registro: "20", moldagem: "2026-04-22", prazo: 7 },
+{ empresa: "PROGEO KM469", registro: "20", moldagem: "2026-04-22", prazo: 14 },
+{ empresa: "PROGEO KM469", registro: "20", moldagem: "2026-04-22", prazo: 28 },
+
+{ empresa: "PROGEO KM469", registro: "21", moldagem: "2026-04-24", prazo: 7 },
+{ empresa: "PROGEO KM469", registro: "21", moldagem: "2026-04-24", prazo: 14 },
+{ empresa: "PROGEO KM469", registro: "21", moldagem: "2026-04-24", prazo: 28 },
+
+{ empresa: "PROGEO KM469", registro: "22", moldagem: "2026-04-27", prazo: 7 },
+{ empresa: "PROGEO KM469", registro: "22", moldagem: "2026-04-27", prazo: 14 },
+{ empresa: "PROGEO KM469", registro: "22", moldagem: "2026-04-27", prazo: 28 },
+
+{ empresa: "PROGEO KM469", registro: "23", moldagem: "2026-04-29", prazo: 7 },
+{ empresa: "PROGEO KM469", registro: "23", moldagem: "2026-04-29", prazo: 14 },
+{ empresa: "PROGEO KM469", registro: "23", moldagem: "2026-04-29", prazo: 28 },
+
+{ empresa: "PROGEO KM469", registro: "24", moldagem: "2026-04-30", prazo: 7 },
+{ empresa: "PROGEO KM469", registro: "24", moldagem: "2026-04-30", prazo: 14 },
+{ empresa: "PROGEO KM469", registro: "24", moldagem: "2026-04-30", prazo: 28 },
+
 
 ];
 
