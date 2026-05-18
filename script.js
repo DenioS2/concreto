@@ -59,6 +59,30 @@ const registrosCP = [
     { empresa: "UAU INGLESA", registro: "106", moldagem: "2026-05-06", prazo: 14 },
     { empresa: "UAU INGLESA", registro: "106", moldagem: "2026-05-06", prazo: 28 },
 
+    { empresa: "UAU INGLESA", registro: "108", moldagem: "2026-05-07", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "108", moldagem: "2026-05-07", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "108", moldagem: "2026-05-07", prazo: 28 },
+
+    { empresa: "UAU INGLESA", registro: "109", moldagem: "2026-05-07", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "109", moldagem: "2026-05-07", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "109", moldagem: "2026-05-07", prazo: 28 },
+
+    { empresa: "UAU INGLESA", registro: "110", moldagem: "2026-05-07", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "110", moldagem: "2026-05-07", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "110", moldagem: "2026-05-07", prazo: 28 },
+
+    { empresa: "UAU INGLESA", registro: "117", moldagem: "2026-05-11", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "117", moldagem: "2026-05-11", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "117", moldagem: "2026-05-11", prazo: 28 },
+
+    { empresa: "UAU INGLESA", registro: "118", moldagem: "2026-05-12", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "118", moldagem: "2026-05-12", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "118", moldagem: "2026-05-12", prazo: 28 },
+
+    { empresa: "UAU INGLESA", registro: "119", moldagem: "2026-05-12", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "119", moldagem: "2026-05-12", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "119", moldagem: "2026-05-12", prazo: 28 },
+
 
     // KTM
     { empresa: "KTM", registro: "4", moldagem: "2026-04-09", prazo: 28 },
@@ -73,6 +97,24 @@ const registrosCP = [
     { empresa: "KTM", registro: "11", moldagem: "2026-04-24", prazo: 28 },
     { empresa: "KTM", registro: "12", moldagem: "2026-04-24", prazo: 14 },
     { empresa: "KTM", registro: "12", moldagem: "2026-04-24", prazo: 28 },
+
+    { empresa: "KTM", registro: "13", moldagem: "2026-04-28", prazo: 7 },
+    { empresa: "KTM", registro: "13", moldagem: "2026-04-28", prazo: 14 },
+    { empresa: "KTM", registro: "13", moldagem: "2026-04-28", prazo: 28 },
+
+    { empresa: "KTM", registro: "14", moldagem: "2026-04-28", prazo: 7 },
+    { empresa: "KTM", registro: "14", moldagem: "2026-04-28", prazo: 14 },
+    { empresa: "KTM", registro: "14", moldagem: "2026-04-28", prazo: 28 },
+
+    { empresa: "KTM", registro: "15", moldagem: "2026-04-30", prazo: 7 },
+    { empresa: "KTM", registro: "15", moldagem: "2026-04-30", prazo: 14 },
+    { empresa: "KTM", registro: "15", moldagem: "2026-04-30", prazo: 28 },
+
+    { empresa: "KTM", registro: "16", moldagem: "2026-04-30", prazo: 7 },
+    { empresa: "KTM", registro: "16", moldagem: "2026-04-30", prazo: 14 },
+    { empresa: "KTM", registro: "16", moldagem: "2026-04-30", prazo: 28 },
+    
+    
 
 
     // ATERPA
@@ -141,6 +183,21 @@ const registrosCP = [
     { empresa: "PROGEO KM469", registro: "24", moldagem: "2026-04-30", prazo: 7 },
     { empresa: "PROGEO KM469", registro: "24", moldagem: "2026-04-30", prazo: 14 },
     { empresa: "PROGEO KM469", registro: "24", moldagem: "2026-04-30", prazo: 28 },
+
+
+    //FERRAÇO
+
+    { empresa: "FERRAÇO", registro: "715", moldagem: "2026-04-20", prazo: 7 },
+    { empresa: "FERRAÇO", registro: "715", moldagem: "2026-04-20", prazo: 14 },
+    { empresa: "FERRAÇO", registro: "715", moldagem: "2026-04-20", prazo: 28 },
+
+    { empresa: "FERRAÇO", registro: "716", moldagem: "2026-04-28", prazo: 7 },
+    { empresa: "FERRAÇO", registro: "716", moldagem: "2026-04-28", prazo: 14 },
+    { empresa: "FERRAÇO", registro: "716", moldagem: "2026-04-28", prazo: 28 },
+
+    { empresa: "FERRAÇO", registro: "717", moldagem: "2026-05-14", prazo: 7 },
+    { empresa: "FERRAÇO", registro: "717", moldagem: "2026-05-14", prazo: 14 },
+    { empresa: "FERRAÇO", registro: "717", moldagem: "2026-05-14", prazo: 28 },
 
 
 ];
