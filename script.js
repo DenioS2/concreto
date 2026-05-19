@@ -71,6 +71,26 @@ const registrosCP = [
     { empresa: "UAU INGLESA", registro: "110", moldagem: "2026-05-07", prazo: 14 },
     { empresa: "UAU INGLESA", registro: "110", moldagem: "2026-05-07", prazo: 28 },
 
+    { empresa: "UAU INGLESA", registro: "112", moldagem: "2026-05-08", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "112", moldagem: "2026-05-08", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "112", moldagem: "2026-05-08", prazo: 28 },
+
+    { empresa: "UAU INGLESA", registro: "113", moldagem: "2026-05-11", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "113", moldagem: "2026-05-11", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "113", moldagem: "2026-05-11", prazo: 28 },
+
+    { empresa: "UAU INGLESA", registro: "114", moldagem: "2026-05-11", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "114", moldagem: "2026-05-11", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "114", moldagem: "2026-05-11", prazo: 28 },
+
+    { empresa: "UAU INGLESA", registro: "115", moldagem: "2026-05-11", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "115", moldagem: "2026-05-11", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "115", moldagem: "2026-05-11", prazo: 28 },
+
+    { empresa: "UAU INGLESA", registro: "116", moldagem: "2026-05-11", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "116", moldagem: "2026-05-11", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "116", moldagem: "2026-05-11", prazo: 28 },
+
     { empresa: "UAU INGLESA", registro: "117", moldagem: "2026-05-11", prazo: 7 },
     { empresa: "UAU INGLESA", registro: "117", moldagem: "2026-05-11", prazo: 14 },
     { empresa: "UAU INGLESA", registro: "117", moldagem: "2026-05-11", prazo: 28 },
