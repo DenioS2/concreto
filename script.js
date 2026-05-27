@@ -52,6 +52,24 @@ const registrosCP = [
     { empresa: "UAU INGLESA", registro: "119", moldagem: "2026-05-12", prazo: 14 },
     { empresa: "UAU INGLESA", registro: "119", moldagem: "2026-05-12", prazo: 28 },
 
+    { empresa: "UAU INGLESA", registro: "124", moldagem: "2026-05-15", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "124", moldagem: "2026-05-15", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "124", moldagem: "2026-05-15", prazo: 28 },
+    
+    { empresa: "UAU INGLESA", registro: "125", moldagem: "2026-05-15", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "125", moldagem: "2026-05-15", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "125", moldagem: "2026-05-15", prazo: 28 },
+    
+    { empresa: "UAU INGLESA", registro: "126", moldagem: "2026-05-16", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "126", moldagem: "2026-05-16", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "126", moldagem: "2026-05-16", prazo: 28 },
+    
+    { empresa: "UAU INGLESA", registro: "127", moldagem: "2026-05-19", prazo: 7 },
+    { empresa: "UAU INGLESA", registro: "127", moldagem: "2026-05-19", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "127", moldagem: "2026-05-19", prazo: 28 },
+
+    
+
 
 
     // KTM
