@@ -115,6 +115,20 @@ const registrosCP = [
     { empresa: "FERRAÇO", registro: "717", moldagem: "2026-05-14", prazo: 14 },
     { empresa: "FERRAÇO", registro: "717", moldagem: "2026-05-14", prazo: 28 },
 
+    { empresa: "FERRAÇO", registro: "718", moldagem: "2026-05-18", prazo: 7 },
+    { empresa: "FERRAÇO", registro: "718", moldagem: "2026-05-18", prazo: 14 },
+    { empresa: "FERRAÇO", registro: "718", moldagem: "2026-05-18", prazo: 28 },
+
+    { empresa: "FERRAÇO", registro: "719", moldagem: "2026-05-22", prazo: 7 },
+    { empresa: "FERRAÇO", registro: "719", moldagem: "2026-05-22", prazo: 14 },
+    { empresa: "FERRAÇO", registro: "719", moldagem: "2026-05-22", prazo: 28 },
+
+    { empresa: "FERRAÇO", registro: "720", moldagem: "2026-05-26", prazo: 7 },
+    { empresa: "FERRAÇO", registro: "720", moldagem: "2026-05-26", prazo: 14 },
+    { empresa: "FERRAÇO", registro: "720", moldagem: "2026-05-26", prazo: 28 },
+
+    
+
 
 
 ];
