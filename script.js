@@ -18,6 +18,8 @@ const registrosCP = [
     { empresa: "UAU INGLESA", registro: "104", moldagem: "2026-04-30", prazo: 28 },
     { empresa: "UAU INGLESA", registro: "105", moldagem: "2026-05-05", prazo: 28 },
     { empresa: "UAU INGLESA", registro: "106", moldagem: "2026-05-06", prazo: 28 },
+    { empresa: "UAU INGLESA", registro: "107", moldagem: "2026-05-07", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "107", moldagem: "2026-05-07", prazo: 28 },
     
     { empresa: "UAU INGLESA", registro: "108", moldagem: "2026-05-07", prazo: 14 },
     { empresa: "UAU INGLESA", registro: "108", moldagem: "2026-05-07", prazo: 28 },
@@ -27,6 +29,9 @@ const registrosCP = [
     
     { empresa: "UAU INGLESA", registro: "110", moldagem: "2026-05-07", prazo: 14 },
     { empresa: "UAU INGLESA", registro: "110", moldagem: "2026-05-07", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "111", moldagem: "2026-05-08", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "111", moldagem: "2026-05-08", prazo: 28 },
     
     { empresa: "UAU INGLESA", registro: "112", moldagem: "2026-05-08", prazo: 14 },
     { empresa: "UAU INGLESA", registro: "112", moldagem: "2026-05-08", prazo: 28 },
@@ -67,6 +72,88 @@ const registrosCP = [
     { empresa: "UAU INGLESA", registro: "127", moldagem: "2026-05-19", prazo: 7 },
     { empresa: "UAU INGLESA", registro: "127", moldagem: "2026-05-19", prazo: 14 },
     { empresa: "UAU INGLESA", registro: "127", moldagem: "2026-05-19", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "120", moldagem: "2026-05-13", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "120", moldagem: "2026-05-13", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "121", moldagem: "2026-05-13", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "121", moldagem: "2026-05-13", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "122", moldagem: "2026-05-14", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "122", moldagem: "2026-05-14", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "130", moldagem: "2026-05-25", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "130", moldagem: "2026-05-25", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "131", moldagem: "2026-05-25", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "131", moldagem: "2026-05-25", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "132", moldagem: "2026-05-25", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "132", moldagem: "2026-05-25", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "133", moldagem: "2026-05-25", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "133", moldagem: "2026-05-25", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "134", moldagem: "2026-05-25", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "134", moldagem: "2026-05-25", prazo: 28 },
+    
+    
+    { empresa: "UAU INGLESA", registro: "139", moldagem: "2026-05-28", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "139", moldagem: "2026-05-28", prazo: 28 },
+    
+    { empresa: "UAU INGLESA", registro: "140", moldagem: "2026-05-28", prazo: 14 },
+    { empresa: "UAU INGLESA", registro: "140", moldagem: "2026-05-28", prazo: 28 },
+    
+    { empresa: "UAU INGLESA", registro: "141", moldagem: "2026-05-28", prazo: 14 },
+     { empresa: "UAU INGLESA", registro: "141", moldagem: "2026-05-28", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "142", moldagem: "2026-05-28", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "142", moldagem: "2026-05-28", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "143", moldagem: "2026-05-28", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "143", moldagem: "2026-05-28", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "144", moldagem: "2026-05-29", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "144", moldagem: "2026-05-29", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "145", moldagem: "2026-05-01", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "145", moldagem: "2026-05-01", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "146", moldagem: "2026-06-02", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "146", moldagem: "2026-06-02", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "147", moldagem: "2026-06-02", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "147", moldagem: "2026-06-02", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "148", moldagem: "2026-06-02", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "148", moldagem: "2026-06-02", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "149", moldagem: "2026-09-02", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "149", moldagem: "2026-09-02", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "150", moldagem: "2026-06-02", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "150", moldagem: "2026-06-02", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "151", moldagem: "2026-06-03", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "151", moldagem: "2026-06-03", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "152", moldagem: "2026-06-03", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "152", moldagem: "2026-06-03", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "153", moldagem: "2026-06-03", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "153", moldagem: "2026-06-03", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "154", moldagem: "2026-06-03", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "154", moldagem: "2026-06-03", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "155", moldagem: "2026-06-03", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "155", moldagem: "2026-06-03", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "156", moldagem: "2026-06-03", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "156", moldagem: "2026-06-03", prazo: 28 },
+    
+      { empresa: "UAU INGLESA", registro: "157", moldagem: "2026-06-03", prazo: 14 },
+      { empresa: "UAU INGLESA", registro: "157", moldagem: "2026-06-03", prazo: 28 },
 
     
 
@@ -99,6 +186,22 @@ const registrosCP = [
     
     { empresa: "KTM", registro: "21", moldagem: "2026-05-13", prazo: 14 },
     { empresa: "KTM", registro: "21", moldagem: "2026-05-13", prazo: 28 },
+
+    { empresa: "KTM", registro: "22", moldagem: "2026-05-19", prazo: 14 },
+   { empresa: "KTM", registro: "22", moldagem: "2026-05-19", prazo: 28 },
+
+   { empresa: "KTM", registro: "23", moldagem: "2026-05-19", prazo: 14 },
+   { empresa: "KTM", registro: "23", moldagem: "2026-05-19", prazo: 28 },
+
+   { empresa: "KTM", registro: "24", moldagem: "2026-05-21", prazo: 14 },
+   { empresa: "KTM", registro: "24", moldagem: "2026-05-21", prazo: 28 },
+
+   { empresa: "KTM", registro: "25", moldagem: "2026-05-21", prazo: 14 },
+   { empresa: "KTM", registro: "25", moldagem: "2026-05-21", prazo: 28 },
+
+   { empresa: "KTM", registro: "26", moldagem: "2026-05-22", prazo: 14 },
+   { empresa: "KTM", registro: "26", moldagem: "2026-05-22", prazo: 28 },
+
     
     
     // ATERPA
