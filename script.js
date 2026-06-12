@@ -2,20 +2,10 @@
  * { empresa: "NOME", registro: "00", moldagem: "AAAA-MM-DD", prazo: 7 ou 14 ou 28 },
  */
 const registrosCP = [
-
-    // PROGEO KM489
-    { empresa: "PROGEO KM489", registro: "124", moldagem: "2026-04-23", prazo: 28 },
-    { empresa: "PROGEO KM489", registro: "125", moldagem: "2026-04-24", prazo: 28 },
-    { empresa: "PROGEO KM489", registro: "126", moldagem: "2026-04-27", prazo: 28 },
         
     
     // UAU INGLESA
     
-    { empresa: "UAU INGLESA", registro: "118", moldagem: "2026-05-12", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "118", moldagem: "2026-05-12", prazo: 28 },
-    
-    { empresa: "UAU INGLESA", registro: "119", moldagem: "2026-05-12", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "119", moldagem: "2026-05-12", prazo: 28 },
 
     { empresa: "UAU INGLESA", registro: "124", moldagem: "2026-05-15", prazo: 7 },
     { empresa: "UAU INGLESA", registro: "124", moldagem: "2026-05-15", prazo: 14 },
@@ -56,15 +46,6 @@ const registrosCP = [
     { empresa: "UAU INGLESA", registro: "138", moldagem: "2026-05-26", prazo: 14 },
     { empresa: "UAU INGLESA", registro: "138", moldagem: "2026-05-26", prazo: 28 },
 
-    
-      { empresa: "UAU INGLESA", registro: "120", moldagem: "2026-05-13", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "120", moldagem: "2026-05-13", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "121", moldagem: "2026-05-13", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "121", moldagem: "2026-05-13", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "122", moldagem: "2026-05-14", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "122", moldagem: "2026-05-14", prazo: 28 },
     
       { empresa: "UAU INGLESA", registro: "130", moldagem: "2026-05-25", prazo: 14 },
       { empresa: "UAU INGLESA", registro: "130", moldagem: "2026-05-25", prazo: 28 },
@@ -186,6 +167,22 @@ const registrosCP = [
    { empresa: "KTM", registro: "26", moldagem: "2026-05-22", prazo: 14 },
    { empresa: "KTM", registro: "26", moldagem: "2026-05-22", prazo: 28 },
 
+   { empresa: "KTM", registro: "27", moldagem: "2026-05-30", prazo: 14 },
+   { empresa: "KTM", registro: "27", moldagem: "2026-05-30", prazo: 28 },
+    
+   { empresa: "KTM", registro: "28", moldagem: "2026-05-30", prazo: 14 },
+   { empresa: "KTM", registro: "28", moldagem: "2026-05-30", prazo: 28 },
+    
+   { empresa: "KTM", registro: "29", moldagem: "2026-05-30", prazo: 14 },
+   { empresa: "KTM", registro: "29", moldagem: "2026-05-30", prazo: 28 },
+    
+   { empresa: "KTM", registro: "30", moldagem: "2026-06-03", prazo: 14 },
+   { empresa: "KTM", registro: "30", moldagem: "2026-06-03", prazo: 28 },
+    
+   { empresa: "KTM", registro: "31", moldagem: "2026-06-03", prazo: 14 },
+   { empresa: "KTM", registro: "31", moldagem: "2026-06-03", prazo: 28 },
+
+
     
     
     // ATERPA
@@ -199,19 +196,7 @@ const registrosCP = [
     { empresa: "ATERPA", registro: "36", moldagem: "2026-05-06", prazo: 28 },
     { empresa: "ATERPA", registro: "37", moldagem: "2026-05-08", prazo: 14 },
     { empresa: "ATERPA", registro: "37", moldagem: "2026-05-08", prazo: 28 },
-    
-    
-    // PROGEO KM469
-    { empresa: "PROGEO KM469", registro: "20", moldagem: "2026-04-22", prazo: 28 },
-    
-    { empresa: "PROGEO KM469", registro: "21", moldagem: "2026-04-24", prazo: 28 },
-    
-    { empresa: "PROGEO KM469", registro: "22", moldagem: "2026-04-27", prazo: 28 },
-    
-    { empresa: "PROGEO KM469", registro: "23", moldagem: "2026-04-29", prazo: 28 },
-    
-    { empresa: "PROGEO KM469", registro: "24", moldagem: "2026-04-30", prazo: 28 },
-    
+        
     
     //FERRAÇO
     { empresa: "FERRAÇO", registro: "716", moldagem: "2026-04-28", prazo: 28 },
@@ -231,6 +216,26 @@ const registrosCP = [
     { empresa: "FERRAÇO", registro: "720", moldagem: "2026-05-26", prazo: 7 },
     { empresa: "FERRAÇO", registro: "720", moldagem: "2026-05-26", prazo: 14 },
     { empresa: "FERRAÇO", registro: "720", moldagem: "2026-05-26", prazo: 28 },
+    
+    { empresa: "FERRAÇO", registro: "721", moldagem: "2026-05-28", prazo: 7 },
+    { empresa: "FERRAÇO", registro: "721", moldagem: "2026-05-28", prazo: 14 },
+    { empresa: "FERRAÇO", registro: "721", moldagem: "2026-05-28", prazo: 28 },
+    
+    { empresa: "FERRAÇO", registro: "722", moldagem: "2026-06-02", prazo: 7 },
+    { empresa: "FERRAÇO", registro: "722", moldagem: "2026-06-02", prazo: 14 },
+    { empresa: "FERRAÇO", registro: "722", moldagem: "2026-06-02", prazo: 28 },
+    
+    { empresa: "FERRAÇO", registro: "723", moldagem: "2026-06-09", prazo: 7 },
+    { empresa: "FERRAÇO", registro: "723", moldagem: "2026-06-09", prazo: 14 },
+    { empresa: "FERRAÇO", registro: "723", moldagem: "2026-06-09", prazo: 28 },
+    
+    { empresa: "FERRAÇO", registro: "724", moldagem: "2026-06-09", prazo: 7 },
+    { empresa: "FERRAÇO", registro: "724", moldagem: "2026-06-09", prazo: 14 },
+    { empresa: "FERRAÇO", registro: "724", moldagem: "2026-06-09", prazo: 28 },
+    
+    { empresa: "FERRAÇO", registro: "725", moldagem: "2026-06-10", prazo: 7 },
+    { empresa: "FERRAÇO", registro: "725", moldagem: "2026-06-10", prazo: 14 },
+    { empresa: "FERRAÇO", registro: "725", moldagem: "2026-06-10", prazo: 28 },
 
     
 
