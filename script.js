@@ -7,118 +7,141 @@ const registrosCP = [
     // UAU INGLESA
     
 
-    { empresa: "UAU INGLESA", registro: "124", moldagem: "2026-05-15", prazo: 7 },
-    { empresa: "UAU INGLESA", registro: "124", moldagem: "2026-05-15", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "124", moldagem: "2026-05-15", prazo: 28 },
-    
-    { empresa: "UAU INGLESA", registro: "125", moldagem: "2026-05-15", prazo: 7 },
-    { empresa: "UAU INGLESA", registro: "125", moldagem: "2026-05-15", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "125", moldagem: "2026-05-15", prazo: 28 },
-    
-    { empresa: "UAU INGLESA", registro: "126", moldagem: "2026-05-16", prazo: 7 },
-    { empresa: "UAU INGLESA", registro: "126", moldagem: "2026-05-16", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "126", moldagem: "2026-05-16", prazo: 28 },
-    
-    { empresa: "UAU INGLESA", registro: "127", moldagem: "2026-05-19", prazo: 7 },
-    { empresa: "UAU INGLESA", registro: "127", moldagem: "2026-05-19", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "127", moldagem: "2026-05-19", prazo: 28 },
+     
+  { empresa: "UAU INGLESA", registro: "129", moldagem: "2026-05-22", prazo: 28 }, // Vence em 19/06/2026
+  { empresa: "UAU INGLESA", registro: "130", moldagem: "2026-05-25", prazo: 28 }, // Vence em 22/06/2026
+  { empresa: "UAU INGLESA", registro: "131", moldagem: "2026-05-25", prazo: 28 }, // Vence em 22/06/2026
+  { empresa: "UAU INGLESA", registro: "132", moldagem: "2026-05-25", prazo: 28 }, // Vence em 22/06/2026
+  { empresa: "UAU INGLESA", registro: "133", moldagem: "2026-05-25", prazo: 28 }, // Vence em 22/06/2026
+  { empresa: "UAU INGLESA", registro: "134", moldagem: "2026-05-25", prazo: 28 }, // Vence em 22/06/2026
+  { empresa: "UAU INGLESA", registro: "135", moldagem: "2026-05-26", prazo: 28 }, // Vence em 23/06/2026
+  { empresa: "UAU INGLESA", registro: "136", moldagem: "2026-05-26", prazo: 28 }, // Vence em 23/06/2026
+  { empresa: "UAU INGLESA", registro: "137", moldagem: "2026-05-26", prazo: 28 }, // Vence em 23/06/2026
+  { empresa: "UAU INGLESA", registro: "138", moldagem: "2026-05-26", prazo: 28 }, // Vence em 23/06/2026
+  { empresa: "UAU INGLESA", registro: "139", moldagem: "2026-05-28", prazo: 28 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "140", moldagem: "2026-05-28", prazo: 28 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "141", moldagem: "2026-05-28", prazo: 28 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "142", moldagem: "2026-05-28", prazo: 28 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "143", moldagem: "2026-05-28", prazo: 28 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "144", moldagem: "2026-05-29", prazo: 28 }, // Vence em 26/06/2026
 
-    { empresa: "UAU INGLESA", registro: "128", moldagem: "2026-05-21", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "128", moldagem: "2026-05-21", prazo: 28 },
-    { empresa: "UAU INGLESA", registro: "129", moldagem: "2026-05-22", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "129", moldagem: "2026-05-22", prazo: 28 },
-    { empresa: "UAU INGLESA", registro: "130", moldagem: "2026-05-25", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "130", moldagem: "2026-05-25", prazo: 28 },
-    { empresa: "UAU INGLESA", registro: "131", moldagem: "2026-05-25", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "131", moldagem: "2026-05-25", prazo: 28 },
-    { empresa: "UAU INGLESA", registro: "132", moldagem: "2026-05-25", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "132", moldagem: "2026-05-25", prazo: 28 },
-    { empresa: "UAU INGLESA", registro: "133", moldagem: "2026-05-25", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "133", moldagem: "2026-05-25", prazo: 28 },
-    { empresa: "UAU INGLESA", registro: "134", moldagem: "2026-05-25", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "134", moldagem: "2026-05-25", prazo: 28 },
-    { empresa: "UAU INGLESA", registro: "135", moldagem: "2026-05-26", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "135", moldagem: "2026-05-26", prazo: 28 },
-    { empresa: "UAU INGLESA", registro: "136", moldagem: "2026-05-26", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "136", moldagem: "2026-05-26", prazo: 28 },
-    { empresa: "UAU INGLESA", registro: "137", moldagem: "2026-05-26", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "137", moldagem: "2026-05-26", prazo: 28 },
-    { empresa: "UAU INGLESA", registro: "138", moldagem: "2026-05-26", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "138", moldagem: "2026-05-26", prazo: 28 },
+  // Registro 146
+  { empresa: "UAU INGLESA", registro: "146", moldagem: "2026-06-02", prazo: 14 }, // Vence HOJE (16/06/2026)
+  { empresa: "UAU INGLESA", registro: "146", moldagem: "2026-06-02", prazo: 28 }, // Vence em 30/06/2026
 
-    
-      { empresa: "UAU INGLESA", registro: "130", moldagem: "2026-05-25", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "130", moldagem: "2026-05-25", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "131", moldagem: "2026-05-25", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "131", moldagem: "2026-05-25", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "132", moldagem: "2026-05-25", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "132", moldagem: "2026-05-25", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "133", moldagem: "2026-05-25", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "133", moldagem: "2026-05-25", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "134", moldagem: "2026-05-25", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "134", moldagem: "2026-05-25", prazo: 28 },
-    
-    
-    { empresa: "UAU INGLESA", registro: "139", moldagem: "2026-05-28", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "139", moldagem: "2026-05-28", prazo: 28 },
-    
-    { empresa: "UAU INGLESA", registro: "140", moldagem: "2026-05-28", prazo: 14 },
-    { empresa: "UAU INGLESA", registro: "140", moldagem: "2026-05-28", prazo: 28 },
-    
-    { empresa: "UAU INGLESA", registro: "141", moldagem: "2026-05-28", prazo: 14 },
-     { empresa: "UAU INGLESA", registro: "141", moldagem: "2026-05-28", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "142", moldagem: "2026-05-28", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "142", moldagem: "2026-05-28", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "143", moldagem: "2026-05-28", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "143", moldagem: "2026-05-28", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "144", moldagem: "2026-05-29", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "144", moldagem: "2026-05-29", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "145", moldagem: "2026-05-01", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "145", moldagem: "2026-05-01", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "146", moldagem: "2026-06-02", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "146", moldagem: "2026-06-02", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "147", moldagem: "2026-06-02", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "147", moldagem: "2026-06-02", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "148", moldagem: "2026-06-02", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "148", moldagem: "2026-06-02", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "149", moldagem: "2026-09-02", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "149", moldagem: "2026-09-02", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "150", moldagem: "2026-06-02", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "150", moldagem: "2026-06-02", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "151", moldagem: "2026-06-03", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "151", moldagem: "2026-06-03", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "152", moldagem: "2026-06-03", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "152", moldagem: "2026-06-03", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "153", moldagem: "2026-06-03", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "153", moldagem: "2026-06-03", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "154", moldagem: "2026-06-03", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "154", moldagem: "2026-06-03", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "155", moldagem: "2026-06-03", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "155", moldagem: "2026-06-03", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "156", moldagem: "2026-06-03", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "156", moldagem: "2026-06-03", prazo: 28 },
-    
-      { empresa: "UAU INGLESA", registro: "157", moldagem: "2026-06-03", prazo: 14 },
-      { empresa: "UAU INGLESA", registro: "157", moldagem: "2026-06-03", prazo: 28 },
+  // Registro 147
+  { empresa: "UAU INGLESA", registro: "147", moldagem: "2026-06-02", prazo: 14 }, // Vence HOJE (16/06/2026)
+  { empresa: "UAU INGLESA", registro: "147", moldagem: "2026-06-02", prazo: 28 }, // Vence em 30/06/2026
+
+  // Registro 148
+  { empresa: "UAU INGLESA", registro: "148", moldagem: "2026-06-02", prazo: 14 }, // Vence HOJE (16/06/2026)
+  { empresa: "UAU INGLESA", registro: "148", moldagem: "2026-06-02", prazo: 28 }, // Vence em 30/06/2026
+
+  // Registro 149
+  { empresa: "UAU INGLESA", registro: "149", moldagem: "2026-09-02", prazo: 14 }, // Vence em 16/09/2026
+  { empresa: "UAU INGLESA", registro: "149", moldagem: "2026-09-02", prazo: 28 }, // Vence em 30/09/2026
+
+  // Registro 150
+  { empresa: "UAU INGLESA", registro: "150", moldagem: "2026-06-02", prazo: 14 }, // Vence HOJE (16/06/2026)
+  { empresa: "UAU INGLESA", registro: "150", moldagem: "2026-06-02", prazo: 28 }, // Vence em 30/06/2026
+
+  // Registro 151
+  { empresa: "UAU INGLESA", registro: "151", moldagem: "2026-06-03", prazo: 14 }, // Vence em 17/06/2026
+  { empresa: "UAU INGLESA", registro: "151", moldagem: "2026-06-03", prazo: 28 }, // Vence em 01/07/2026
+
+  // Registro 152
+  { empresa: "UAU INGLESA", registro: "152", moldagem: "2026-06-03", prazo: 14 }, // Vence em 17/06/2026
+  { empresa: "UAU INGLESA", registro: "152", moldagem: "2026-06-03", prazo: 28 }, // Vence em 01/07/2026
+
+  // Registro 153
+  { empresa: "UAU INGLESA", registro: "153", moldagem: "2026-06-03", prazo: 14 }, // Vence em 17/06/2026
+  { empresa: "UAU INGLESA", registro: "153", moldagem: "2026-06-03", prazo: 28 }, // Vence em 01/07/2026
+
+  // Registro 154
+  { empresa: "UAU INGLESA", registro: "154", moldagem: "2026-06-03", prazo: 14 }, // Vence em 17/06/2026
+  { empresa: "UAU INGLESA", registro: "154", moldagem: "2026-06-03", prazo: 28 }, // Vence em 01/07/2026
+
+  // Registro 155
+  { empresa: "UAU INGLESA", registro: "155", moldagem: "2026-06-03", prazo: 14 }, // Vence em 17/06/2026
+  { empresa: "UAU INGLESA", registro: "155", moldagem: "2026-06-03", prazo: 28 }, // Vence em 01/07/2026
+
+  // Registro 156
+  { empresa: "UAU INGLESA", registro: "156", moldagem: "2026-06-03", prazo: 14 }, // Vence em 17/06/2026
+  { empresa: "UAU INGLESA", registro: "156", moldagem: "2026-06-03", prazo: 28 }, // Vence em 01/07/2026
+
+  // Registro 157
+  { empresa: "UAU INGLESA", registro: "157", moldagem: "2026-06-03", prazo: 14 }, // Vence em 17/06/2026
+  { empresa: "UAU INGLESA", registro: "157", moldagem: "2026-06-03", prazo: 28 }  // Vence em 01/07/2026
+
+
+ // Registro 158
+  { empresa: "UAU INGLESA", registro: "158", moldagem: "2026-06-05", prazo: 14 }, // Vence em 19/06/2026
+  { empresa: "UAU INGLESA", registro: "158", moldagem: "2026-06-05", prazo: 28 }, // Vence em 03/07/2026
+
+  // Registro 159
+  { empresa: "UAU INGLESA", registro: "159", moldagem: "2026-06-05", prazo: 14 }, // Vence em 19/06/2026
+  { empresa: "UAU INGLESA", registro: "159", moldagem: "2026-06-05", prazo: 28 }, // Vence em 03/07/2026
+
+  // Registro 160
+  { empresa: "UAU INGLESA", registro: "160", moldagem: "2026-06-10", prazo: 7 },  // Vence em 17/06/2026
+  { empresa: "UAU INGLESA", registro: "160", moldagem: "2026-06-10", prazo: 14 }, // Vence em 24/06/2026
+  { empresa: "UAU INGLESA", registro: "160", moldagem: "2026-06-10", prazo: 28 }, // Vence em 08/07/2026
+
+  // Registro 161
+  { empresa: "UAU INGLESA", registro: "161", moldagem: "2026-06-10", prazo: 7 },  // Vence em 17/06/2026
+  { empresa: "UAU INGLESA", registro: "161", moldagem: "2026-06-10", prazo: 14 }, // Vence em 24/06/2026
+  { empresa: "UAU INGLESA", registro: "161", moldagem: "2026-06-10", prazo: 28 }, // Vence em 08/07/2026
+
+  // Registro 162
+  { empresa: "UAU INGLESA", registro: "162", moldagem: "2026-06-10", prazo: 7 },  // Vence em 17/06/2026
+  { empresa: "UAU INGLESA", registro: "162", moldagem: "2026-06-10", prazo: 14 }, // Vence em 24/06/2026
+  { empresa: "UAU INGLESA", registro: "162", moldagem: "2026-06-10", prazo: 28 }, // Vence em 08/07/2026
+
+  // Registro 163
+  { empresa: "UAU INGLESA", registro: "163", moldagem: "2026-06-10", prazo: 7 },  // Vence em 17/06/2026
+  { empresa: "UAU INGLESA", registro: "163", moldagem: "2026-06-10", prazo: 14 }, // Vence em 24/06/2026
+  { empresa: "UAU INGLESA", registro: "163", moldagem: "2026-06-10", prazo: 28 }, // Vence em 08/07/2026
+
+  // Registro 164
+  { empresa: "UAU INGLESA", registro: "164", moldagem: "2026-06-11", prazo: 7 },  // Vence em 18/06/2026
+  { empresa: "UAU INGLESA", registro: "164", moldagem: "2026-06-11", prazo: 14 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "164", moldagem: "2026-06-11", prazo: 28 }, // Vence em 09/07/2026
+
+  // Registro 165
+  { empresa: "UAU INGLESA", registro: "165", moldagem: "2026-06-11", prazo: 7 },  // Vence em 18/06/2026
+  { empresa: "UAU INGLESA", registro: "165", moldagem: "2026-06-11", prazo: 14 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "165", moldagem: "2026-06-11", prazo: 28 }, // Vence em 09/07/2026
+
+  // Registro 166
+  { empresa: "UAU INGLESA", registro: "166", moldagem: "2026-06-11", prazo: 7 },  // Vence em 18/06/2026
+  { empresa: "UAU INGLESA", registro: "166", moldagem: "2026-06-11", prazo: 14 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "166", moldagem: "2026-06-11", prazo: 28 }, // Vence em 09/07/2026
+
+  // Registro 167
+  { empresa: "UAU INGLESA", registro: "167", moldagem: "2026-06-11", prazo: 7 },  // Vence em 18/06/2026
+  { empresa: "UAU INGLESA", registro: "167", moldagem: "2026-06-11", prazo: 14 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "167", moldagem: "2026-06-11", prazo: 28 }, // Vence em 09/07/2026
+
+  // Registro 168
+  { empresa: "UAU INGLESA", registro: "168", moldagem: "2026-06-11", prazo: 7 },  // Vence em 18/06/2026
+  { empresa: "UAU INGLESA", registro: "168", moldagem: "2026-06-11", prazo: 14 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "168", moldagem: "2026-06-11", prazo: 28 }, // Vence em 09/07/2026
+
+  // Registro 169
+  { empresa: "UAU INGLESA", registro: "169", moldagem: "2026-06-11", prazo: 7 },  // Vence em 18/06/2026
+  { empresa: "UAU INGLESA", registro: "169", moldagem: "2026-06-11", prazo: 14 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "169", moldagem: "2026-06-11", prazo: 28 }, // Vence em 09/07/2026
+
+  // Registro 170
+  { empresa: "UAU INGLESA", registro: "170", moldagem: "2026-06-11", prazo: 7 },  // Vence em 18/06/2026
+  { empresa: "UAU INGLESA", registro: "170", moldagem: "2026-06-11", prazo: 14 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "170", moldagem: "2026-06-11", prazo: 28 }, // Vence em 09/07/2026
+
+  // Registro 171
+  { empresa: "UAU INGLESA", registro: "171", moldagem: "2026-06-11", prazo: 7 },  // Vence em 18/06/2026
+  { empresa: "UAU INGLESA", registro: "171", moldagem: "2026-06-11", prazo: 14 }, // Vence em 25/06/2026
+  { empresa: "UAU INGLESA", registro: "171", moldagem: "2026-06-11", prazo: 28 }  // Vence em 09/07/2026
+
 
     
 
