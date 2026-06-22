@@ -183,7 +183,7 @@ const registrosCP = [
         
         { empresa: "APICE-02", registro: "8", moldagem: "2026-05-28", prazo: 28 },
         
-        { empresa: "APICE-02", registro: "9", moldagem: "2026-05-29", prazo: 28 },
+        { empresa: "APICE-02", registro: "9", moldagem: "2026-05-29", prazo: 28 }
 
 
 
